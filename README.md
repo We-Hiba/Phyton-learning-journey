@@ -8,4 +8,4 @@ Day 1 :
 🧠 What to learn : install Python 3.13 64 bit set it up then open IDLE (for now since i just started then later i will start using Jupyter notebook, then learn how to run small scripst of Python, then finally learn how to print basic data types .
 
 
-If you want to know about the basic data types i started with, click on this link here  -> 
+If you want to know about the basic data types i started with, click on this link here  -> - 🗓️ [Day 1 – Basic Data Types](day1_basic_data_types/)
