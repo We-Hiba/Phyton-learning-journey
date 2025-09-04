@@ -11,3 +11,4 @@ Wish me luck !
 🐍 DAY 1 : 
 
 _ WHAT TO LEARN 🧠 : first install Python ( IDDLE )for now since I just started then maybe later Jupyter notebook and learn how to run Phyton scripts then finally learn how to print variables with basic data types .
+
