@@ -15,6 +15,7 @@ After learning each data type and what they are , now it is time to run simple c
 Let's start with the classic Hello, World ! 💻
 In python we dont need any introductions or main like we do in C programming we start directly .
 This is the python code scrict i wrote ->   print("Hello, World !") , then i saved the file and run it . 🎉
+Click on the link here if you want to see it on IDLE -> - [Day 1 – Hello World](hello_world.py)
 
 
 
