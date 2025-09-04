@@ -12,3 +12,5 @@ Wish me luck !
 
 _ WHAT TO LEARN 🧠 : first install Python ( IDDLE )for now since I just started then maybe later Jupyter notebook and learn how to run Phyton scripts then finally learn how to print variables with basic data types .
 
+Ater installing the things i need i took a moment learning the basic data types : 
+check here if you need i small review on them -> 
