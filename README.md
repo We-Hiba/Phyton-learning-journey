@@ -9,3 +9,12 @@ Day 1 :
 
 
 If you want to know about the basic data types i started with, click on this link here  -> - 🗓️ [Day 1 – Basic Data Types](day1_data_types/)
+
+After learning each data type and what they are , now it is time to run simple codes in IDLE .
+
+Let's start with the classic Hello, World ! 💻
+In python we dont need any introductions or main like we do in C programming we start directly .
+This is the python code scrict i wrote ->   print("Hello, World !") , then i saved the file and run it . 🎉
+
+
+
