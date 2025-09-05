@@ -24,6 +24,8 @@ Here is a link of a printing of the sun of two floats -> [Day 1 - The sum of two
 
 This is a link for all the valid syntax in variable namimg : - >[Day 1 : Rules for Python](day1_rules_in_python/) 
 
+This is a link to learn about comments in Python and how to use them to structure and describe our code. -> [Day 1 Comments in Python](
+
 
 
 
