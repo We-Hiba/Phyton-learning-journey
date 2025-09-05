@@ -20,5 +20,7 @@ Click on the link here if you want to see the python code scrict i wrote -> - [D
 Next is how to print the sum of two integers , while doing that i found out that there is a lot of ways to print based on what you want exactly , so here are two ways to use inside the function print 
 -> [Day 1 - The sum of two integers](sum_two_integers.py) 🎉
 
+Here is a link of a printing of the sun of two floats -> [Dat 1 - The sum of two floats](sum_two_float.py)
+
 
 
