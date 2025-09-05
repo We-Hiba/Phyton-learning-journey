@@ -22,7 +22,7 @@ Next is how to print the sum of two integers , while doing that i found out that
 
 Here is a link of a printing of the sun of two floats -> [Day 1 - The sum of two floats](sum_two_float.py) 🎉
 
-This is a link for all the valid syntax in variable namimg : - >[Day 1 : Rules for Python}(rules_ 
+This is a link for all the valid syntax in variable namimg : - >[Day 1 : Rules for Python](rules_in_python/) 
 
 
 
