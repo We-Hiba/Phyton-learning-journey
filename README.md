@@ -22,6 +22,8 @@ Next is how to print the sum of two integers , while doing that i found out that
 
 Here is a link of a printing of the sun of two floats -> [Day 1 - The sum of two floats](sum_two_float.py) 🎉
 
+This link will show u how to create variables in python -> [Day 1 - Variables in Python](
+
 This is a link for all the valid syntax in variable namimg : - >[Day 1 : Rules for Python](day1_rules_in_python/) 🎉
 
 This is a link to learn about comments in Python and how to use them to structure and describe our code. -> [Day 1 Comments in Python](day1_comments_in_python) 🎉
