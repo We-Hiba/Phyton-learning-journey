@@ -5,7 +5,7 @@ Let's talk about comments in a Python code :
 2. I can add comments using the # symbole 
 EX : 
 
-   # This is a comment  ( Everything after the # symbole is ignored when running a code )
+   (#) This is a comment  ( Everything after the # symbole is ignored when running a code )
 print(10)
 
 3. You can even add comments at the end of an existing code line . This is called an inline comment :
