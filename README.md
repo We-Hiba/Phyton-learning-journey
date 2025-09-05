@@ -17,7 +17,8 @@ In python we dont need any introductions or main like we do in C programming we 
  
 Click on the link here if you want to see the python code scrict i wrote -> - [Day 1 – Hello World](hello_world.py) 🎉
 
-Next is how to print the sum of two integers , while doing that i found out that there is a lot of ways to print based on what you want exactly , so here are two ways to use inside the function print -> 🎉
+Next is how to print the sum of two integers , while doing that i found out that there is a lot of ways to print based on what you want exactly , so here are two ways to use inside the function print 
+-> [Day 1 - The sum of two integers](sum_two_integers.py) 🎉
 
 
 
