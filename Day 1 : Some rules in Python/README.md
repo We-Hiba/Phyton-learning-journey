@@ -6,4 +6,4 @@ In python naming a variable has some rules to fallow :
 
 3. Also, be aware that variable names are case sentive ( Uppercase and lowercase letters are treated as different ) EX : num = 10  and NUM = 5 
 
-4.Another important aspect of python syntax is indentation (The whitespace at the beginning of a code line ) it will give an error if you run the code .
+4. Another important aspect of python syntax is indentation (The whitespace at the beginning of a code line ) it will give an error if you run the code .
