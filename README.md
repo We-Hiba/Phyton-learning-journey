@@ -28,6 +28,8 @@ This is a link for all the valid syntax in variable namimg : - >[Day 1 : Rules f
 
 This is a link to learn about comments in Python and how to use them to structure and describe our code. -> [Day 1 Comments in Python](day1_comments_in_python) 🎉
 
+This is the ned of Day one YEY !!! To be honest it was not that hard , it was fun and simple , the only thing i will tell myself to remember is that Python read the code line by line from up to down . Never forget that . Good job and stay motivated until Day 2 .
+
 
 
 
